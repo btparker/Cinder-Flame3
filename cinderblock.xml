@@ -6,6 +6,7 @@
 	>
 		<header>include/flam3.h</header>
 		<includePath>include</includePath>
-		<includePath system="true">include/libxml2</includePath>
+		<includePath system="true">lib</includePath>
+		<includePath system="true">lib/libxml2</includePath>
 	</block>
 </cinder>
